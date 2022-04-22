@@ -47,7 +47,7 @@ function MyApp({ Component, pageProps }) {
         size="large"
         ripple={true}
       >
-        <div className="font-pixel">make excuse</div>
+        <div className="font-mono">excuse</div>
       </AwesomeButton>
     </div>
   );
